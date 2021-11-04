@@ -1,4 +1,4 @@
-package html
+package webScrapper
 
 import (
 	"io/ioutil"
